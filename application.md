@@ -29,7 +29,7 @@ https://github.com/plt/racket/wiki/SoC-Ideas-2012
 What is the main IRC channel for your organization?
 ===================================================
 
-#racket
+`#racket`
 
 What is the main development mailing list for your organization?
 ================================================================
