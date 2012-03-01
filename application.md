@@ -1,8 +1,10 @@
 Organization name
+=================
 
 Racket Programming Language
 
 Organization description
+========================
 
 Racket is both a general-purpose programming language and a platform
 for building and extending languages. Racket combines functional,
@@ -10,26 +12,32 @@ object-oriented, and other style of programming together with powerful
 metaprogramming that goes beyond macros.
 
 Organization home page url
+==========================
 
 http://www.racket-lang.org
 
 Main organization license
+=========================
 
 LGPL
 
 What is the URL for your Ideas page?
+====================================
 
 https://github.com/plt/racket/wiki/SoC-Ideas-2012
 
 What is the main IRC channel for your organization?
+===================================================
 
 #racket
 
 What is the main development mailing list for your organization?
+================================================================
 
 http://lists.racket-lang.org/users/
 
 Why is your organization applying to participate in Google Summer of Code 2012? What do you hope to gain by participating?
+==========================================================================================================================
 
 Racket provides a broad set of tools out of the box, but its weakness is that it has fewer
 libraries compared to competing languages like Haskell and Python. Furthermore, Racket has
@@ -38,18 +46,23 @@ Summer of Code, we aim to develop more libraries to make Racket more practical a
 its mindshare among students who want to work on open-source software.
 
 Did your organization participate in past Google Summer of Codes? If so, please summarize your involvement and the successes and challenges of your participation.
+==========================================================================================================================
 
 No.
 
 If your organization has not previously participated in Google Summer of Code, have you applied in the past? If so, for what year(s)?
+==========================================================================================================================
 
 Yes, 2006.
 
 Does your organization have an application template you would like to see students use? If so, please provide it now.
+==========================================================================================================================
 
 What criteria did you use to select your mentors for this year's program? Please be as specific as possible.
+============================================================================================================
 
 What is your plan for dealing with disappearing students?
+=========================================================
 
 We plan to require a weekly report from each participating student.
 The weekly reports will take a written form and will be accompanied by
@@ -58,11 +71,13 @@ mentor. Students who fail to meet these requirements will fail the
 evaluations.
 
 What is your plan for dealing with disappearing mentors?
+=========================================================
 
 Racket has a large development community, so we plan to have several
 mentors who can serve as backup in case of disappearances.
 
 What steps will you take to encourage students to interact with your project's community before, during and after the program?
+=========================================================
 
 Our plan is to encourage students to start familiarizing themselves with
 the Racket framework right away and participate on the IRC channel (#racket)
@@ -74,9 +89,11 @@ textbooks and tutorials), it should be easy to get students up-to-speed
 compared to other projects.
 
 Are you a new organization who has a Googler or other organization to vouch for you? If so, please list their name(s) here.
+=========================================================
 
 ...
 
 Are you an established or larger organization who would like to vouch for a new organization applying this year? If so, please list their name(s) here.
+=========================================================
 
 ...
