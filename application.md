@@ -8,7 +8,7 @@ Organization description
 
 Racket is both a general-purpose programming language and a platform
 for building and extending languages. Racket combines functional,
-object-oriented, and other style of programming together with powerful
+object-oriented, and other styles of programming together with powerful
 metaprogramming that goes beyond macros.
 
 Organization home page url
@@ -29,7 +29,7 @@ https://github.com/plt/racket/wiki/SoC-Ideas-2012
 What is the main IRC channel for your organization?
 ===================================================
 
-`#racket`
+Freenode.net. `#racket`
 
 What is the main development mailing list for your organization?
 ================================================================
@@ -57,6 +57,8 @@ Yes, 2006.
 
 Does your organization have an application template you would like to see students use? If so, please provide it now.
 ==========================================================================================================================
+
+
 
 What criteria did you use to select your mentors for this year's program? Please be as specific as possible.
 ============================================================================================================
