@@ -29,7 +29,7 @@ https://github.com/plt/racket/wiki/SoC-Ideas-2012
 What is the main IRC channel for your organization?
 ===================================================
 
-Freenode.net. `#racket`
+`#racket` on freenode.net.
 
 What is the main development mailing list for your organization?
 ================================================================
@@ -93,7 +93,8 @@ compared to other projects.
 Are you a new organization who has a Googler or other organization to vouch for you? If so, please list their name(s) here.
 =========================================================
 
-...
+Jacob Matthews, jacobm@gmail.com
+Joe Marshall, jmarshall@alum.mit.edu
 
 Are you an established or larger organization who would like to vouch for a new organization applying this year? If so, please list their name(s) here.
 =========================================================
