@@ -58,10 +58,14 @@ Yes, 2006.
 Does your organization have an application template you would like to see students use? If so, please provide it now.
 ==========================================================================================================================
 
-
-
 What criteria did you use to select your mentors for this year's program? Please be as specific as possible.
 ============================================================================================================
+
+We plan to choose mentors from among developers from the community
+who volunteer to mentor for specific projects. For each project, we
+will have at least one backup mentor from the core development team
+in case there are any mentoring issues. Some projects will only
+have mentors from the core team.
 
 What is your plan for dealing with disappearing students?
 =========================================================
