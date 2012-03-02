@@ -11,6 +11,20 @@ for building and extending languages. Racket combines functional,
 object-oriented, and other styles of programming together with powerful
 metaprogramming that goes beyond macros.
 
+Racket and its IDE, DrRacket, are used around the world to teach
+introductory computer science along with the How to Design Programs
+textbook[1]. On the flip side, Racket is used to develop real-world
+applications in areas like web programming, game development,
+and scientific computing.
+
+The project has a long history of accepting external contributions.
+The PLaneT package repository[2] contains many open-source libraries
+contributed by Racket developers and community members. The development
+team is large with around 30 core developers and around 60 committers.
+
+[1]: http://www.htdp.org/
+[2]: http://planet.racket-lang.org/
+
 Organization home page url
 ==========================
 
@@ -64,8 +78,9 @@ What criteria did you use to select your mentors for this year's program? Please
 We plan to choose mentors from among developers from the community
 who volunteer to mentor for specific projects. For each project, we
 will have at least one backup mentor from the core development team
-in case there are any mentoring issues. Some projects will only
-have mentors from the core team.
+in case there are any mentoring issues. We will make sure that
+all projects have a mentor who is a known and experienced Racket
+programmer.
 
 What is your plan for dealing with disappearing students?
 =========================================================
@@ -74,13 +89,14 @@ We plan to require a weekly report from each participating student.
 The weekly reports will take a written form and will be accompanied by
 either a text or voice conversation between the student and his/her
 mentor. Students who fail to meet these requirements will fail the
-evaluations.
+midterm and/or final evaluation.
 
 What is your plan for dealing with disappearing mentors?
 =========================================================
 
-Racket has a large development community, so we plan to have several
+Racket has a large development team (around 30), so we plan to have several
 mentors who can serve as backup in case of disappearances.
+The admin and backup admin can serve as mentors if necessary.
 
 What steps will you take to encourage students to interact with your project's community before, during and after the program?
 =========================================================
@@ -103,4 +119,4 @@ Are you a new organization who has a Googler or other organization to vouch for 
 Are you an established or larger organization who would like to vouch for a new organization applying this year? If so, please list their name(s) here.
 =========================================================
 
-...
+N/A
