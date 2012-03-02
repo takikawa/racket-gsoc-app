@@ -60,6 +60,8 @@ N/A
 Yes, 2006.
 
 ### Does your organization have an application template you would like to see students use? If so, please provide it now. ###
+
+Yes https://github.com/plt/racket/wiki/SoC-Student-Application
  
 ### What criteria did you use to select your mentors for this year's program? Please be as specific as possible. ###
 
