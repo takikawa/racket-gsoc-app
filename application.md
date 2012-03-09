@@ -95,7 +95,8 @@ community during the applications period when choosing students.
 
 Since Racket has a large amount of teaching material bundled with it (e.g.,
 textbooks and tutorials), it should be easy to get students up-to-speed
-compared to other projects.
+compared to other projects.  In addition, we have many smaller (week or two)
+sized projects for warm-up available.
 
 ### Are you a new organization who has a Googler or other organization to vouch for you? If so, please list their name(s) here. ###
 
