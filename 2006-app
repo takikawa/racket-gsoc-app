@@ -1,0 +1,50 @@
+  I'm writing to propose PLT Scheme[1] as a mentoring organization
+for Google's SoC 2006 program. 
+
+  PLT Scheme has been around since 1996, and is the author of DrScheme[2], an
+evaluator/compiler/programming-environment/web-server/os/etc. etc.  for the
+Scheme programming language.  DrScheme is used all over the world to teach
+introductory programming as part of the TeachScheme program[3], along with the
+textbook How To Design Programs[4], written by PLT principals.
+
+  PLT Scheme has a long history of accepting outside contributions to
+its code base.  Recently, the PLaneT project[5]--part of DrScheme--has
+developed a novel and transparent interface for sharing such contributions;
+now, third-party code can be used transparently within user programs.  The list
+of packages currently available for PLaneT is quite broad. It includes
+pragmatically-motivated projects such as database and network interfaces, along
+with academically-motivated packages such the Reduction Semantics package and
+the Aho-Corasick tools.  The DrScheme package is all LGPL.
+
+  A preliminary list of "ideas" for PLT-mentored projects might include the
+following:
+
+  -- using an existing interface to the Allegro toolkit, develop a
+'game logic' framework to allow beginning students to write
+better-looking and faster-running example games within the HtDP
+(How To Design Programs) curriculum
+
+  -- extend the PLT Stepper to handle the new ACL2 theorem-proving
+language level
+
+  -- use the new FFI interface to build better-integrated support for sound &
+midi streams
+
+  PLT Scheme is, at its heart, a research platform.  The list of
+publications[6] associated with PLT Scheme is long and growing longer; PLT
+Scheme provides an ideal testbed for experimenting with ideas of module
+systems, contracts, macro systems, thread abstractions, resource management,
+novel features in OO programming, and other new language features.  PLT
+researchers specialize in discovering practical solutions to tough problems,
+and formulating these as research models that influence generations of later
+researchers.
+
+  Finally, PLT Scheme already has ties to Google's SoC program; last year, two
+of LispNYC's project proposals were for additions to the PLT Scheme open-source
+pool;  both of them were funded, and in fact I am the (successful) recipient of
+one of those grants.
+
+  PLT Scheme would appear to be exactly the sort of organization that is best
+positioned to capitalize on Google's generosity, and best positioned to make
+sure that the student contributions are widely disseminated and publicly
+available.
