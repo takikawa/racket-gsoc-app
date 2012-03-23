@@ -1,0 +1,38 @@
+<gsocbot> kblin: Next in line is samth with notice 'Racket https://github.com/plt/racket/wiki/SoC-Ideas-2012'
+<carols> hi racket folks
+<racket|asumu> Hello
+<racket|samth> hi carols
+<carols> so the ideas page is certainly lengthy enough for your org, but i would have liked to see more "meat" for each of the ideas.
+ so quantity is fine, but quality could use a little improvement.
+<racket|asumu> I see, so more technical details?
+<racket|samth> carols: or organizational details?
+<carols> technical details
+ i think organizational details are fine here.
+<racket|asumu> Okay, thanks. Did the application form itself have enough details?
+<carols> yeah, i think so. since you have participated in the past we trust that you can handle disappearing students and mentors, which you seemed to address in the app.
+<racket|samth> carols: we haven't actually participated in the past
+<carols> oh? it says you did in 2006.
+ i wasn't here, so i don't know for sure.
+<racket|samth> carols: we applied but were rejected in 2006
+<carols> oh, i see.
+ well, regardless.
+ the ideas page was a B+ and we were making cuts to A+ ideas pages for orgs this year.
+<racket|samth> do you have any examples of organizations with A+ ideas pages that you recommend we look at?
+<carols> sure, just a sec.
+ http://community.kde.org/GSoC/2011/Ideas
+ that's one.
+ we list that one in the FAQs.
+<racket|samth> ok, thanks
+<carols> or you can look at the ideas pages for any of the orgs that were accepted this year.
+<racket|samth> any other feedback?
+<carols> please try again next year?
+<racket|samth> ok
+<carols> we did really like your app, it was just another tough call.
+<racket|asumu> Okay, thanks. We'll apply again next year. :)
+<racket|samth> it would have been very helpful for us to know about this feedback session in the rejection email
+<carols> thank you :-0
+ :-)
+<racket|samth> i only learned about it from reading blog posts by other rejected orgs
+<carols> yep, something for us to improve for next year
+ there's always something we can be doing better.
+<carols> have a great summer!
